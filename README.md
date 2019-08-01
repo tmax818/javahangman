@@ -1,0 +1,1 @@
+This is the repo for the Java Objects Courese code along on Treehouse. Thank you for your interest. Please hire me!
